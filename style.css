@@ -1,0 +1,133 @@
+
+/*
+	@author: Anurag Baral;
+*/
+body {
+	background-image: url(plain.jpg);
+	background-size: 2000px 2500px;
+	background-repeat: no-repeat;
+	color: #000305;
+	font-size: 87.5% ;
+	font-family: Arial, 'Lucid Sans Unicode';
+	line-height: 1.5;
+	text-align: left;
+}
+
+table, th, td {
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 15px;
+}
+
+a {
+	text-decoration: none;
+
+}
+
+a:link, a: visited{
+
+}
+
+a: hover, a:active{
+
+}
+
+.body {
+	margin: 0 auto;
+	width: 70%;
+}
+.main_header nav {
+	background-color: #666;
+	height: 50px;
+	border-radius: 6px;
+}
+
+.main_header nav ul {
+	list-style: none;
+	margin: 0 auto;
+}
+
+.main_header nav ul li {
+	float: left;
+	display: inline;
+}
+
+.main_header nav a:link, .main_header nav a:visited {
+	color: #FFFFFF;
+	height : 30px;
+	padding: 10px 30px;
+	display: inline-block;
+
+
+}
+
+.main_header nav a:hover, .main_header nav a:active,
+.main_header nav .active a:link, .main_header nav .active a:visited {
+	background-color: #000000;
+
+}
+.merchandise-active {
+	background-color: #012312;
+}
+
+.Tours-active {
+	background-color: #012312;
+}
+
+.About-active {
+	background-color: #012312;
+}
+
+.main_content
+{
+	border-radius: 7px;
+	line-height: 25px;
+   
+}
+
+.content{
+	width: 70%;
+	float: left;
+	
+}
+
+.top_content, .bottom_content {
+	background-color: #F5F5DC;
+	border-radius: 7px;
+	padding: 1% 2%;
+	margin: 7px;
+}
+
+.top_sidebar{
+	width: 25%;
+	margin-top: 1%;
+	float: left;
+	background-color: #FFFFFF;
+	margin-top: 1%;
+	padding: 1% 2%;
+	border-radius: 7px;
+
+}
+
+
+.middle_sidebar{
+	width: 25%;
+	margin-top:1%;
+	float: left;
+	background-color: #FFFFFF;
+	padding: 1% 2%;
+	border-radius: 7px;
+
+}
+
+.bottom_sidebar{
+	width: 25%;
+	margin-top: 1%;
+	float: left;
+	background-color: #FFFFFF;
+    padding: 1% 2%;
+	border-radius: 7px;
+}
+

@@ -1,0 +1,4 @@
+T-Shirt,Fine new T-shirt from Project 8771 clothing line,33.00,Grey_Tshirt.jpg,Medium/Large
+T-Shirt,Fine new T-shirt from Project 8771 clothing line,33.00,images.jpg,Small/Medium/Large
+CD, New Album,10.00,project8771.jpg, NA
+Scarf, Fine new Scarf from Project 8771 clothing line,10.00,boys1.jpg, Medium

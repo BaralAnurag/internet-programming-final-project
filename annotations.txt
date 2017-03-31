@@ -1,0 +1,27 @@
+Anurag Baral
+CS315
+04/20/2016
+
+
+Milestone 4 Updates :
+1. Contact us (on the header)
+- Can view different contact information upon clicking the button.
+
+2.Suscribe (via email) (on the header)
+- communicates with the database to insert and view information.
+
+3.Security Analysis
+	a.  For a secure code and functional website, i have checked inputs by users.
+User input on various parts of the website is being checked for their validity.
+	
+	b. There is some information leakage i.e email adress of the followers. But this issue
+can be resolved using log-in methods via unique username and password.
+
+	c.There could also be Man-in-the-middle attack whoch can be resolved using 
+HTTPS.
+
+	d.Use of htmlspecialchars which returns an HTML-escaped version of a string.
+
+	e. USe of quote which returns a SQL-escaped version of a string.
+
+Thank you,
